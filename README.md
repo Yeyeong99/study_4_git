@@ -54,15 +54,20 @@ study_4_git
    - 요약: local에서 branch 생성 후 새 branch에서 작업, push, 깃허브 웹 사이트에서 pull-request 수행
      |번호|명령어|설명|
      |:-:|:-:|:-|
-     |1|git pull|처음엔 git clone 주소<br>항상 문서 작성 전 git pull하는 습관을 들이자. 그래야 충돌 방지 가능!
-     |2|git branch Yeyeong| Yeyeong이라는 이름의 브랜치 생성. 자신의 이름으로 하면 됨|
+     |1|git clone 주소|처음에만 하면 됨
+     |2|git branch Yeyeong|Yeyeong이라는 이름의 브랜치 생성. 자신의 이름으로 하면 됨|
      |3|git checkout Yeyeong|Yeyeong이라는 이름의 브랜치로 이동, checkout 대신 switch 써도 됨|
-     |4| |로컬에서 작업 진행|
-     |5|git status|작업 상태 확인|
-     |6|git add 파일이름|파일 혹은 . 이용|
-     |7|git commit -m "커밋 메세지"|커밋 시 원하는 issue의 넘버를 쓰면 링크가 연동됨. 예를 들어 #2를 쓰면 #2 issue로 연결되는 식|
-     |8|git push|레포지토리에 올림|
-     |9||git hub 웹사이트에 잘 올라갔는지 확인|
+     |4|**git pull origin main**|1) **자신의 브랜치에 있는 상태에서**<br>2) main 브랜치에 업데이트 된 내용(예를 들어 다른 사람들의 pull request로 인해 main이 변했을 경우)를 받아오기 위한 과정<br>3) **안하면 충돌 가능성 높아지니 필수!!**|
+     |5| |로컬에서 작업 진행|
+     |6|git status|작업 상태 확인|
+     |7|git add 파일이름|파일 혹은 . 이용|
+     |8|git commit -m "커밋 메세지"|커밋 시 원하는 issue의 넘버를 쓰면 링크가 연동됨. 예를 들어 #2를 쓰면 #2 issue로 연결되는 식|
+     |9|git push|레포지토리에 올림|
+     |10||git hub 웹사이트에 잘 올라갔는지 확인|
+     - 처음에만 1 ~ 10 수행
+     - 이후엔 3 ~ 10 수행
+        - 현재 자신이 위치한 브랜치 확인하는 방법: git branch 치거나 git bash의 레포지토리 맨 뒤에 괄호 안 이름 확인
+        - 만약 git branch 잘못 만들었을 경우: git branch -d 브랜치 이름 하면 됨
 3. 한 문제를 똑같이 풀 것
 
     - pull request 과정에서 다른 사람 코드 리뷰하고 댓글 남기기
