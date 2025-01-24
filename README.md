@@ -3,24 +3,22 @@
 ### Repository 구조
 ```Markdown
 study_4_git
+    ㄴ CS
+        ㄴ C
+            ㄴ [김나연]C.md
+            ㄴ [이다혜]C.md
+            ㄴ [이유찬]C.md
+            ㄴ [이예영]C.md
+        ㄴ Arrays
+        ㄴ Algorithm
+        ㄴ ...
 
-ㄴ CS
-
-    ㄴ C
-        ㄴ [김나연]C.md
-        ㄴ [이다혜]C.md
-        ㄴ [이유찬]C.md
-        ㄴ [이예영]C.md
-  
-    ㄴ Arrays
-  
-    ㄴ Algorithm
-
-    ㄴ ...
-
-ㄴ algorithm
-
-    ㄴ 문제별 파일
+    ㄴ algorithm
+        ㄴ 회전하는 문자열
+            ㄴ [김나연]1974.py
+            ㄴ [이다혜]1974.py
+            ㄴ [이유한]1974.py
+            ㄴ [이예영]1974.py
 ```
 
 ## CS (대면)
