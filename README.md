@@ -83,3 +83,11 @@ study_4_git
 3. 한 문제를 똑같이 풀 것
 
     - pull request 과정에서 다른 사람 코드 리뷰하고 댓글 남기기
+4. 문제 목록
+
+   |난이도|제목|풀이 공유|
+   |:-:|:-:|:-:|
+   |D2|[두 개의 숫자열](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZPceq6qYUoDFAWB&contestProbId=AV5PpoFaAS4DFAUq&probBoxId=AZPi59NKxvoDFAWB&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%EC%A4%91%29&problemBoxCnt=3)|[1959](https://github.com/Yeyeong99/study_4_git/tree/main/Algorithm/1959)|
+   |D2|[숫자 배열 회전](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZPceq6qYUoDFAWB&contestProbId=AV5Pq-OKAVYDFAUq&probBoxId=AZPi59NKxvoDFAWB&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%EC%A4%91%29&problemBoxCnt=3)|[1961](https://github.com/Yeyeong99/study_4_git/tree/main/Algorithm/1961)|
+   |D2|[파리퇴치3](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZPceq6qYUoDFAWB&contestProbId=AXuARWAqDkQDFARa&probBoxId=AZPi59NKxvoDFAWB&type=USER&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%EC%A4%91%29&problemBoxCnt=3)|[12712]()|
+   
