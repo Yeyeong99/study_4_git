@@ -19,12 +19,11 @@ def count_impossible(arg_list):
                     if (row[i - 1] > row[i]) or (row[i + count - 1] < row[i + count]):
                         answer += 1
                         break
-                    else:
-                        pass
                     
-                elif ((count >= x) and (count < 2 * x)) and (row[i+ count] - row[i + count - 1] == 1) and (row[i - 1] != -1 and (row[i - 1] - row[i] == 1)):
-                    answer += 1
-                    break
+                elif (count >= x) and (count < 2 * x):
+                    if (row[i+ count] - row[i + count - 1] == 1) and (row[i - 1] != -1 and (row[i - 1] - row[i] == 1)):
+                        answer += 1
+                        break
             
     return answer
 
