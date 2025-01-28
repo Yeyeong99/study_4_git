@@ -131,10 +131,11 @@
    - 1: Boolean
    - ==: equals (= is used for assignment)
      ![flowchart of code above](image.png)
+
    - why do we use else if?
      - for shotter comparison
 
-2. Integer
+3. Integer
 
    ```c
    int counter = 0; //1
@@ -177,11 +178,13 @@
 
    - comparison
 
-   |  char  |  string  |
-   | :----: | :------: | ---- |
-   | single | multiple |
-   |   -    |          | : or |
 
+      |  char  |  string  |
+      | :----: | :------: |
+      | single | multiple |
+
+
+   - || : or 
    - && : and
 
 ### loop
