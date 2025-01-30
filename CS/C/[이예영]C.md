@@ -9,7 +9,7 @@
 | Java<br>C<br>Python<br>... |    ▶     | 0010101001  |
 
 - 인간이 입력한 언어를 컴퓨터가 이해할 수 있도록 바꿔주는 역할
-- 실행하고 나면 같은 이름의 확장자 없는 파일이 생성 됨
+- 실행하고 나면 같은 이름의 확장자 없는 파일이 생성
 
 ### void
 
@@ -131,10 +131,11 @@
    - 1: Boolean
    - ==: equals (= is used for assignment)
      ![flowchart of code above](image.png)
+
    - why do we use else if?
      - for shotter comparison
 
-2. Integer
+3. Integer
 
    ```c
    int counter = 0; //1
@@ -177,11 +178,13 @@
 
    - comparison
 
-   |  char  |  string  |
-   | :----: | :------: | ---- |
-   | single | multiple |
-   |   -    |          | : or |
 
+      |  char  |  string  |
+      | :----: | :------: |
+      | single | multiple |
+
+
+   - || : or 
    - && : and
 
 ### loop
