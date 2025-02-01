@@ -36,7 +36,7 @@ study_4_git
 
 [참고자료](https://www.youtube.com/watch?v=cwtpLIWylAw&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
 
-1. 시간: 매주 수요일 점심시간 모임
+1. 시간: 매주 금요일 점심시간 모임
 2. 일주일에 개념 한 개씩
 
 - **모두**: 공부한 자료 md 파일로 각 주제에 맞는 레포지토리에 올리기
@@ -49,7 +49,7 @@ study_4_git
 
 [참고자료](https://swexpertacademy.com/main/main.do)
 
-1. 일주일에 두 문제씩 풀기를 목표로 함.
+1. 일주일에 한 문제(+여유되면 하나 더)씩 풀기를 목표로 함.
 2. 풀이 공유 방법
    - 요약: local에서 branch 생성 후 새 branch에서 작업, push, 깃허브 웹 사이트에서 pull-request 수행
    - main 브랜치는 웹 깃허브 상에서만 조작한다고 생각하면 됨
